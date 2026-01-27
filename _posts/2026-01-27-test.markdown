@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ali stranke dovolijo spremljanje njihove lokacije in zakaj?"
+date: 2026-01-27
+author: rokra
+categories: [API]
+tags: [API, Crowdsending]
+---
+
+## Test
